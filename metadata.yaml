@@ -1,11 +1,16 @@
 _repo: Plain-Tales-of-the-North_56828
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56828-h/images/cover.jpg
 creator:
   author:
     agent_name: Mallet, Thierry
     gutenberg_agent_id: '49052'
     url: http://www.gutenberg.org/2009/agents/49052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56828#Plain-Tales-of-the-North
 gutenberg_issued: '2018-03-24'
 gutenberg_type: Text
 identifiers:
